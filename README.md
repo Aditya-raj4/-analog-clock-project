@@ -1,2 +1,3 @@
-![image](https://github.com/DedSec2050/-analog-clock-project/assets/119126965/b44d092d-f9ad-453b-8866-1b22c3fd4cb4)
+![image](https://github.com/DedSec2050/-analog-clock-project/assets/119126965/21cddfaa-c0fb-4e3c-a663-8fe0e4c11b97)
+
 Number display bug fixed.
